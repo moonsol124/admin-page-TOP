@@ -5,6 +5,9 @@
     text-decoration: none;
 }
 
+body > * {
+    overflow-y: auto;
+}
 input[type=search] {
     height: 1.8rem;
     border-radius: 15px;
